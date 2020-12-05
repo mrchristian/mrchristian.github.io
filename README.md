@@ -2,9 +2,9 @@
 
 # Name: Simon Worthington
 
-DOB & place 15. Nov. 1966, Manchester
-
 ![](media/91f1c186f6e5a9bdad2dca5d586be643.jpeg)
+
+DOB & place 15. Nov. 1966, Manchester UK
 
 Nationality UK British
 
@@ -14,9 +14,15 @@ GitHub: <https://github.com/mrchristian>
 
 Twitter: [\@mrchristian99](https://twitter.com/mrchristian99)
 
+Matrix chat: [@mrchristian99:matrix.org](https://matrix.to/#/@mrchristian99:matrix.org)
+
+Tel: 00 49 (0)174 877 1599
+
+ORCID: [0000-0002-8579-9717](https://orcid.org/0000-0002-8579-9717)
+
 Languages English (native), German (A2)
 
-**Specialization: Publishing software architect**
+**Specialization: \#bookliberationist - Publishing software architect**
 
 ## Profile
 
