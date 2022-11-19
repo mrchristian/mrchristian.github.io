@@ -12,7 +12,7 @@ E-Mail: <simon.worthington@tib.eu>
 
 GitHub: <https://github.com/mrchristian>
 
-Mastodon: <a rel="me" href="https://openbiblio.social/@mrchristian"> @mrchristian@openbibio.social
+Mastodon: <a rel="me" href="https://openbiblio.social/@mrchristian">Mastodon</a>
 
 Twitter: [\@mrchristian99](https://twitter.com/mrchristian99)
 
