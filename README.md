@@ -12,6 +12,8 @@ E-Mail: <simon.worthington@tib.eu>
 
 GitHub: <https://github.com/mrchristian>
 
+Mastodon: <a rel="me" href="https://openbiblio.social/@mrchristian">mrchristian@openbibio.social</a>
+
 Twitter: [\@mrchristian99](https://twitter.com/mrchristian99)
 
 Matrix chat: [@mrchristian99:matrix.org](https://matrix.to/#/@mrchristian99:matrix.org)
