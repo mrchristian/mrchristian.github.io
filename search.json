@@ -1,24 +1,66 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "profile.html",
+    "href": "profile.html",
+    "title": "Profile, Projects & CV",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "DOB & place: 15. Nov. 1966, Manchester UK\nNationality: UK British (Article 50 EU Resident)\nE-Mail: simon.worthington@posteo.net\nGitHub: https://github.com/mrchristian\nMastodon: Mastodon\nMatrix chat: @mrchristian99:matrix.org\nTel (DE): 00 49 (0)174 877 1599\nORCID: 0000-0002-8579-9717\nLanguages English (native), German (B2)\nSpecialization: #bookliberationist — publishing software architect"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "mrchristian.github.io",
+    "objectID": "profile.html#curriculum-vitae",
+    "href": "profile.html#curriculum-vitae",
+    "title": "Profile, Projects & CV",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 2, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 30, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "DOB & place: 15. Nov. 1966, Manchester UK\nNationality: UK British (Article 50 EU Resident)\nE-Mail: simon.worthington@posteo.net\nGitHub: https://github.com/mrchristian\nMastodon: Mastodon\nMatrix chat: @mrchristian99:matrix.org\nTel (DE): 00 49 (0)174 877 1599\nORCID: 0000-0002-8579-9717\nLanguages English (native), German (B2)\nSpecialization: #bookliberationist — publishing software architect"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
+    "objectID": "profile.html#profile",
+    "href": "profile.html#profile",
+    "title": "Profile, Projects & CV",
+    "section": "Profile",
+    "text": "Profile\nSimon’s work has been dedicated to lowering barriers to publishing and reading of scholarly works through developing free and open source software to disintermediate current publishers workflows by introducing efficiency, automation, and interoperability.\nInitially in 2005 the focus of the software investigation was single source to multi-format typesetting and more recently: microservices, content real-time validation with Continuous Integration (CI), Infrastructure as code (IasC), and increasing interoperability with the implementation of frameworks such as the JATS standard — Manuscript Exchange Common Approach (MECA). See: https://www.niso.org/standards-committees/meca.\nSkill sets: Software product owner → Full-stack web developer → UX/UI design research and visual design → Research team leader → Publisher & editor → Open Science & FOSS advocate → Publishing company founder & director → Serial startup founder."
+  },
+  {
+    "objectID": "profile.html#employment",
+    "href": "profile.html#employment",
+    "title": "Profile, Projects & CV",
+    "section": "Employment",
+    "text": "Employment\n2017- current: TIB – German National Library of Science and Technology\nEditor-in-chief for Generation Research (https://genr.eu/) editorial platform for Open Science for the Leibniz Research Alliance, Open Science. Lead on ADA software development research project for publishing microservices software development.\n2017: Akademienunion – Berlin-Brandenburg Academy of Sciences and Humanities\nReport co-author for project AGATE – scoping technical API networking to connect archives of all of Europe’s 600+ academies of arts & science.\n2015-17 Director Research and Development, Hybrid Publishing Group, Berlin. Company founder.\nDigital publishing product RnD company. Specializing in modularization of free and open source technologies such as le-tex’s XPROC based multi-format publishing stack, and Vivliostyle browser based PDF rendering. The company coordinates a network of development companies and organizations to improve engineering quality of publishing infrastructures. Member of the Börsenverein des Deutschen Buchhandels, Startup Club.\n2012-15: Hybrid Publishing Consortium, Leuphana Universität\nResearch team leader in an EU funded business incubator with team of six for the Hybrid Publishing Consortium (HPC). The objective was to productise the open-source tech stack for multi-format scholarly publishing. A number of successful platform prototypes were developed – portfolio: https://hpg.io/portfolio.pdf.\n1994-2012: Mute Publishing\nCompany co-founder and co-Director, publisher and editor, Director of Digital for platform delivery. Mute has published over 8.000 OA academic articles, circa 100 books and produced multiple free and open source software platforms, such as print-on-demand services, virtualized web publishing tools running over 10.000 user websites, three rounds of R&D on multi-format web typesetting platforms, online courier distribution networks and global printing & digital distribution systems, and more. See: https://metamute.org/.\n2009-11: Art of Digital London\nDigital strategy professional training course design and workshop delivery with IT4Arts as a ‘peer-learning-network’ for Arts Council England’s 275 funded organisations in London.\n2006-10: MiniBar Lab Ventures London, co-founder and analyst – Europe’s largest social entrepreneur tech-startup network with over 7.000 members.\n1998-99: Paisley-University, Scotland – developer and research in VR.\n1996-97: The Bartlett School of Architecture, UCL – Computer lab developer and instructor.\n1995-98: Artifice Magazine, Black Dog Publishing, London – Multimedia CD-Rom Producer / coder."
+  },
+  {
+    "objectID": "profile.html#startups-founding-dates",
+    "href": "profile.html#startups-founding-dates",
+    "title": "Profile, Projects & CV",
+    "section": "Startups (founding dates)",
+    "text": "Startups (founding dates)\nRunStop – 2018, microcomputer hosted publishing services; Berlin Publishing School – 2017, multi-format publishing training courses; InfoMesh Technologies UG – 2015, publishing software; Typestr – 2011, GDocs to multi-format typesetting platform; More-is-More – 2007, publishing P2P physical distribution service; Web-2-PoD – 2005, web platform for print-on-demand; OpenMute – 2002, web publishing tools virtual services platform; and YouAreHere – 2002, Freifunk delivered media publishing."
+  },
+  {
+    "objectID": "profile.html#education-and-qualifications",
+    "href": "profile.html#education-and-qualifications",
+    "title": "Profile, Projects & CV",
+    "section": "Education and qualifications",
+    "text": "Education and qualifications\n\nDeutsch für den Beruf – Inlingua, level A2, 2016\nCalifornia Institute of the Arts, California USA – MFA Art 1992-93 (not complete)\nSlade School of Fine Arts, UCL – BA Honours. Fine Art 1989-92\nFalmouth College of Art and Design, Cornwall UK – Arts Foundation 1988-89"
+  },
+  {
+    "objectID": "profile.html#skills",
+    "href": "profile.html#skills",
+    "title": "Profile, Projects & CV",
+    "section": "Skills",
+    "text": "Skills\nSoftware development: PHP/MySQL for CMSs; CMS admin, development, and maintenance — OJS, Wordpress, and Drupal; Full-stack web developer; Web design; Linux command line; Linux system admin and network management; XML/XPROC; XSLT; JATS; HTML5; SASS/CSS/Paginated CSS; R; Git/GitHub/GitLab; Jekyll/Hugo/GitHub Pages; Ruby; Javascript; APIs; CRM use; Raspberry Pi and Microcomputer OSs; and UX/UI processes.\nPublishing: Editor; Copy editor and proofer; Journal and book publication management; Production manager; pricing and sales; Multi-format publishing; Metadata management; Contract writing; Art director; Distribution; and SEO and analytics.\nProject management and product owner: Technical writing - manuals, guides, plans, and user docs; Agile techniques; Team learning, skilling, and knowledge retention; and Project tool sets: Trackers, CRMs, reporting, and Gantt charts.\nResearch: Design research; Funding application writing; Team development and management; Working group leading; Workshop management; and Event management.\nManagement: HR and recruiting; Management reporting and financial reporting; Business plan writing and financial projects; Sales development; Digital strategy development and monitoring; Company law, accountancy, and reporting."
+  },
+  {
+    "objectID": "profile.html#voluntary-and-associate-positions-current",
+    "href": "profile.html#voluntary-and-associate-positions-current",
+    "title": "Profile, Projects & CV",
+    "section": "Voluntary and associate positions (current)",
+    "text": "Voluntary and associate positions (current)\n\nLIBER, Citizen Science Working Group, Secretary, 2019-21. Also responsible for leading a new publication ‘An International Guide for Research Libraries on Citizen Science’.\nFORCE11, Board of Directors Member, 2019-21. Responsible for developing digital strategy and delivering new web platform, with new platform for Force11 conference and summer school to launch 2020.\nOpen Science MOOC, Contributor, 2018-ongoing. Contributor to module ‘Module 5 Open Research Software and Open Source’.\nGoldsmith University Press (MIT), Advisory board, 2017-ongoing. Input consultation to MITs new FOSS OA platform, 2019.\nDrucken Heften Laden: Berlin small publishers network, Member, 2016-ongoing. See PaperNews https://papernews.ink/.\nMute Magazine – Editorial collective member, 2012-ongoing."
+  },
+  {
+    "objectID": "profile.html#publications-software-selection",
+    "href": "profile.html#publications-software-selection",
+    "title": "Profile, Projects & CV",
+    "section": "Publications & software (selection)",
+    "text": "Publications & software (selection)\nSee all publications, code, and projects: https://www.zotero.org/mrchristian/cv\n\nPublications\nWorthington, Simon, Lisa Nöth, and Johannes Amorosa. ‘ADA — Phases of Development: Proof of Concept to Community Handover – an Interoperable Framework for Microservices in Scholarly Publishing’, 1 August 2019. https://doi.org/10.5281/zenodo.3626810.\nResearch Report - Wuttke, Ulrike, Carolin Ott, Dominik Adrian, and Simon Worthington. ‘AGATE: Concept for a European Academies Internet Gateway for the Humanities and Social Sciences’. Zenodo, 22 June 2017. https://doi.org/10.5281/zenodo.815916.\nBook - Worthington, S., (2015). Book to the Future: a Manifesto for Book Liberation. s.l.: Hybrid Publishing Consortium. https://zenodo.org/record/18166.\nJournal Article - Worthington, S., Zehle, S., (2016). Network Ecologies: Archive Architectures. (n.d.). Retrieved August 11, 2016, http://scalar.usc.edu/works/network-ecologies/archive-architectures.\nWorthington, Simon, and Kral, Christina. ‘Traces on the Archive’. Research Repository. HPC Research Repository, 30 April 2015. https://research.consortium.io/docs/traces_on_the_archive/traces_on_the_archive.html.\nWorthington, Simon, and Christina Kral. Publication Taxonomy: An Initial Guide to Academic Publishing Types, inside and beyond Academe. [S.l.]: Mute Publishing Ltd, 2014. https://research.consortium.io/docs/a_publication_taxonomy/a-publication-taxonomy.html.\nWorthington, S., Broekman, P. v. M. (2014). Open education: a study in disruption. London ; New York: Rowman & Littlefield International. http://curve.coventry.ac.uk/open/items/c04530ce-d16a-46ca-b359-a905195a76cb/1/.\nWorthington, S., Dynamic Publishing–New Platforms, New Readers! | Hybrid Publishing Consortium. Research plan, August 2013. http://www.consortium.io/research-plan.\n\n\nCode\nADA Sprint Module: Paginated CSS and multi-format publishing MVP – Worthington, Simon, and Jakob Schumacher. ADA Sprint Module MVP: Akademie-Oeffentliches-Gesundheitswesen/Beta-Buch. HTML. 2019. Reprint, Akademie für Öffentliches Gesundheitswesen in Düsseldorf, 2019. https://github.com/akademie-oeffentliches-gesundheitswesen/Beta-Buch.\nADA – Publishing microservices for scholarly publishing. Including IasC and Kafka interface. Role: project leader. Hybrid Publishing Consortium – TIB, Endocode AG, 2018. .\nTypeSetr – Google Docs multi-format typesetting. Role: Founder, product owner and development team. Hybrid Publishing Lab, Leuphana University, 2014. .\nCollaborative Bibliographies – Zotero collaborative library builder. Worthington, Simon, Loraine Furter, and Experimental Media Lab. Collaborative Libraries (Bibliography) (version beta). Madrid: Role: co-developer. Hybrid Publishing Group, 2015. https://github.com/consortium/Collaborative-Libraries.\nMcLuhan Player – Worthington, Simon. Hybrid Lecture Player - Finally Getting the Message: McLuhan’s Media Practice, 2015. Player: https://mcluhan.consortium.io/ and source http://dx.doi.org/10.5281/zenodo.19331.\nHybrid Player – reading interface to synchronise text transcript to original video. Role: system architect. Hybrid Publishing Group, 2015. https://github.com/consortium/hybrid-player.\nResearch Player – Amorosa, Johannes, and Simon Worthington. Research Player - Content CI Proof of Concept, 2015. https://github.com/consortium/hybrid-publishing-research.\nProgressive Publishing System – automated multi-format book typesetting web service for PoD, eBooks and HTML web-book. Funded by Technology Strategy Board UK. Role: Founder and system architect. LShift Ltd & OpenMute Ltd, 2012. https://www.metamute.org/services/r-d/pps-private-beta-online-.docx-and-google-docs-conversion-to-ebook.\nMore is More – media distribution, book, magazine, and film international postal distribution and event management. Funded by Soros Foundation (OSI), Kennisland NL. Role: System architect. OpenMute NL, 2008.\nWeb2POD – print-on-demand book production & distribution web service. Funder Arts Council England. Role: system architect. OpenMute, 2005.\nOMWeb – virtualized XOOPS CMS providing free and paid web publishing tools, wikis, etc. Serviced over 10.000 websites. Funded by Arts Council England. Role: founder, business dev, dev team member. OpenMute, 2004.\nMetamute website and infrastructure – 25 years of continuous independent web infrastructure hosting and multiple website rebuilds in a variety of platforms.\n--\nEnd, 05.12.2020 12:15:07"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -26,5 +68,19 @@
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "blog",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 2, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 30, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]
